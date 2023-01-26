@@ -10,5 +10,3 @@ how to
 git reset check
 
 revert check
-
-revert check2
