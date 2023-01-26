@@ -3,4 +3,8 @@ is this real life
 
 123
 
-как отменить коммит
+how to do
+
+how to
+
+git reset check
