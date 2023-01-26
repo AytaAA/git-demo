@@ -8,3 +8,5 @@ how to do
 how to
 
 git reset check
+
+revert check
